@@ -1,6 +1,3 @@
-<?php   
-?>
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,7 +10,7 @@
 <div class="form">
 <h1>Entrar</h1>
     <form method="POST">
-        <input type="email" name="email" id="email" class="email"placeholder="Email ou número de telefone" style="width: 311px; height: 45px; border: none; border-radius:5px;  margin-left: 50px; background-color: #333333; padding-left: 20px;  color: white; font-size: 15px;" required/>
+        <input type="email" name="email" id="email" class="email"placeholder="Email ou numero de telefone" style="width: 311px; height: 45px; border: none; border-radius:5px;  margin-left: 50px; background-color: #333333; padding-left: 20px;  color: white; font-size: 15px;" required/>
         <br/>
         <br/>
         <input type="password" name="password" id="password" class="form-control" data-toggle="password" placeholder="Senha" style="width: 311px; height: 45px; border: none; border-radius:5px;  background-color: #333333; color: white; padding-left: 20px; margin-bottom: 10px; margin-left: 50px; font-size: 15px;" required/>
@@ -34,7 +31,7 @@
         <div class="form2">
         <h1>Cadastrar</h1>
         <form method="POST">
-        <input type="email" name="email" id="email" class="email"placeholder="Email ou número de telefone" style="width: 311px; height: 45px; border: none; border-radius:5px; margin-left: 50px; background-color: #333333; padding-left: 20px;  color: white; font-size: 15px;" required/>
+        <input type="email" name="email" id="email" class="email"placeholder="Email ou numero de telefone" style="width: 311px; height: 45px; border: none; border-radius:5px; margin-left: 50px; background-color: #333333; padding-left: 20px;  color: white; font-size: 15px;" required/>
         <br/>
         <br/>
         <input type="password" name="password" id="password" class="form-control" data-toggle="password" placeholder="Crie uma senha" style="width: 311px; height: 45px; border: none; border-radius:5px;  background-color: #333333; color: white; padding-left: 20px;;margin-left: 50px; font-size: 15px;" required/>
